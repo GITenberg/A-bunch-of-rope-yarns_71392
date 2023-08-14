@@ -1,0 +1,27 @@
+_repo: A-bunch-of-rope-yarns_71392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, Stanton H.
+    gutenberg_agent_id: '56202'
+    url: http://www.gutenberg.org/2009/agents/56202
+description: ''
+gutenberg_issued: '2023-08-12'
+identifiers:
+  gutenberg: '71392'
+language: en
+pgterms:marc905: 20230218103351king
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: hekula03, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bRichard G. Badger, The Gorham Press, $c1902,
+  pubdate 1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A bunch of rope yarns
+url: http://www.gutenberg.org/ebooks/71392
